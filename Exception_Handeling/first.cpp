@@ -18,7 +18,7 @@ int main()
     }
     catch(int i)
     {
-        cout<<"Exception occured \n";
+        cout<<"Exception occured (Divide by Zero)\n";
         cout<<"Value of x : "<<x;
     }
     return 0;
