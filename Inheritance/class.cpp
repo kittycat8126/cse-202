@@ -8,7 +8,7 @@ class base
     public:
     void show()
     {
-        cout<<"Enter the value of X and Y : \n";
+        cout<<"Enter the value of x and y : \n";
         cin>>x>>y;
         cout<<"Value of x is  : \n"<<x;
         cout<<"Value of Y is : \n"<<y;
