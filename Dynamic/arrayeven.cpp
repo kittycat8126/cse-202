@@ -6,7 +6,7 @@ int main()
     int size;
     cout<<"Enter size : \n";
     cin>>size;
-    arr= new int[size];
+    arr= new int[size];  //arr is a pointer that stores the base address of this allocated memory
 
     if(arr==NULL)
     {
